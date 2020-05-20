@@ -1,0 +1,9 @@
+Package: com.furionxin.networkpeek
+Name: NetWorkPeek
+Depends: mobilesubstrate
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: An HTTP sniffer tool for printing stack information
+Maintainer: FurionLiu
+Author: FurionLiu
+Section: Tweaks

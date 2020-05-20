@@ -1,0 +1,12 @@
+{
+	Filter = {
+		Executables = (
+			itunesstored,
+		);
+		Bundles = (
+			"com.furionliu.GetInfo",
+			"com.jiangjia.gif",
+			"com.apple.UIKit",
+		);
+	};
+}
